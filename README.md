@@ -2,7 +2,7 @@
 -  I’m interested in Programming
 -  I’m currently pursuing B.Tech(CSE)
 -  I’m looking to collaborate..
--  How to reach me rajsinghixa@gmail.com
+-  How to reach me rajsinghxiia9@gmail.com
 
 <!---
 RAJIXA/RAJIXA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
