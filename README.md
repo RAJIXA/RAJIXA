@@ -1,4 +1,4 @@
--  Hi, I’m @RAJIXA
+-  Hi, I’m @RAJSINGH
 -  I’m interested in Programming
 -  I’m currently pursuing B.Tech(CSE)
 -  I’m looking to collaborate..
